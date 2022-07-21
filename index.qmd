@@ -159,23 +159,57 @@ This survey looked at who people trust for news about climate change. The stando
 [<i class="bi bi-file-earmark-text-fill"></i> Park et al. (2022, p. 18)](https://apo.org.au/node/317946)
 :::
 
-## {.center}
+## {.center style="text-align:center"}
 
 [As]{style="color:orange"} **researchers,** [you have the opportunity to]{style="color:orange"} **build social consensus** [for a]{style="color:orange"} **policy action or change** [through mass media]{style="color:orange"}
 
-# [HEADING:<br>[blah blah[blah]{.hl .hl-purple}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #4a00e0, #ff0099)"}
+# Graphics for [broadcast]{.hl .hl-purple style="color:white"} { background="linear-gradient(45deg, #4a00e0, #ff0099)"}
 
 ::: {.notes}
-XXX
+So let's talk about what we can do as researchers and data vis practitioners to make our graphics useful.
 :::
 
-## XXX {.text-indigo-pink style="text-align:center"}
+## Alternatives {.text-indigo-pink .center style="text-align:center"}
 
 ::: {.notes}
-XXX
+You don't have to use TV! There are other opportunities to get a message out to large audiences, even once we rule out the smaller, more fragmented things like social media.
+
+The other visual media are newspapers and digital. But these are very different to TV.
+
+What's the difference between these two stories?
 :::
 
-XXX
+::::: {.columns}
+
+:::: {.column width="50%"}
+![](/images/mcccrh-projections.jpg){alt="Screenshot of an ABC news story about climate change projections"}
+
+::: {.fragment}
+[Display time:]{style="color:blueviolet"}
+
+**7-10 seconds**
+:::
+::::
+
+:::: {.column width="50%"}
+[![](/images/storylab-climatechange.png){alt="Screenshot of an ABC Story Lab article about climate change" style="width:47%"}](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
+
+::: {.fragment}
+[Reading time:]{style="color:blueviolet"}
+
+**11 minutes** [(excluding graphics)]{style="color:blueviolet"}
+:::
+::::
+
+:::::
+
+## Attention span
+
+```
+
+```
+
+
 
 
 # [Heading <br>[with [XXX]{.hl .hl-red} and [YYY]{.hl .hl-red}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}

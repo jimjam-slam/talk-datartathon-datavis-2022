@@ -1,0 +1,217 @@
+---
+format:
+  revealjs: 
+    theme: [default, style.scss]
+    highlight-style: github
+    width: 1400
+    css:
+      - https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css
+---
+
+## {.center}
+
+::: {.notes}
+Hi, I'm James
+
+I'm D&DSL at 360info @ Monash Uni
+
+TODO - notes
+:::
+
+<h1 class="text-indigo-pink">Datavis<h1>
+
+<h2>Going Big For Mass Media</h2>
+
+::: {style="margin-top:50px"}
+### JAMES GOLDIE {.text-orange-gold}
+
+Data and Digital Storytelling Lead, 360info
+:::
+
+## Today {.center}
+
+::: {.notes}
+TODO - notes
+:::
+
+1. Why talk to mass media?
+  - Polarisation 
+  - Non-persuasive communication
+  - Big audiences
+2. Graphics for broadcast
+  - Alternatives: newspaper, online, podcasts, etc (but we'll focus on broadcast)
+  - People involved in broadcast:
+    - Presenter
+    - News editor
+    - 
+    - 
+
+::: {style="margin-top:50px"}
+### Slides
+
+[**https://datartathon2022.talks.jamesgoldie.dev**](https://datartathon2022.talks.jamesgoldie.dev)
+
+[(Code for these slides is at [**https://github.com/jimjam-slam/talk-datartathon-datavis-2022**](https://github.com/jimjam-slam/talk-datartathon-datavis-2022))]{style="font-size:1.2rem"}
+:::
+
+# Hi! {.text-wash-black background="linear-gradient(45deg, #00aadd, #66dd00)"}
+
+## {.text-lime-cyan}
+
+::::: {.columns style="text-align:center;margin-top:50px;"}
+
+:::: {.column width="50%" style="margin-top:50px"}
+::: {.r-stack}
+![](images/graduation.gif){.fragment .fade-in-then-semi-out fragment-index=1 style="width:70%;transform:rotate(-5deg);" fig-alt="A picture of me and my PhD supervisor, Lisa Alexander, at my graduation."}
+
+![](images/mcccrh-zoom.png){.fragment .fade-in-then-semi-out fragment-index=2 style="transform:rotate(5deg);" fig-alt="A picture of me and MCCCRH staff members on Zoom."}
+
+![](images/mcccrh.gif){.fragment .fade-in-then-semi-out fragment-index=3 style="transform:rotate(-1deg);" fig-alt="A picture of me and MCCCRH staff members on a work trip."}
+
+![](images/mcccrh-projections.jpg){.fragment .fade-in-then-semi-out fragment-index=4 style="transform:rotate(1.5deg);" fig-alt="A picture of Graham Creed from the ABC presenting climate projections."}
+
+![](images/mcccrh-7news.gif){.fragment .fade-in fragment-index=5 style="transform:rotate(-3.5deg);" fig-alt="A picture of Jane Bunn presenting statistics on shrinking winters."}
+:::
+::::
+
+:::: {.column width="50%"  style="margin-top:25px"}
+::: {.fragment fragment-index=1}
+I used to be a climate + health researcher 
+:::
+::: {.fragment fragment-index=2}
+•
+
+Worked with **[CLEX](https://climateextremes.org.au)** and **[MCCCRH](https://monash.edu/mcccrh)** on climate change communication
+:::
+::: {.fragment fragment-index=6}
+•
+
+<!-- Now a data journalist with **[360info.org](https://360info.org)!** -->
+
+Now I'm a data journalist with
+
+[![](images/360logo.svg){style="width:50%;"}](https://360info.org)
+:::
+::::
+
+:::::
+
+## {.center}
+
+::: {.notes}
+I've been working at 360info for about 9 months
+
+We're a research-driven newswire, and we give everything away for free under Creative Commons so that all journalists can benefit from it
+
+Part of my role is creating our visuals. (click)
+
+That means I do everything: coding, design and analysis.
+
+As our team grows, I'm also working with our infrastructure partners and looking for ways to make it easier for reporters and editors to use our charts
+:::
+
+:::: {.columns}
+
+:::{.column width="60%"}
+[![](images/360logo.svg){style="width:50%;"}](https://360info.org)
+
+**[360info](https://360info.org)** is an **open access** global information agency that tackles the world’s biggest challenges and offers practical solutions.
+:::
+
+:::{.column .fragment width="40%"}
+```{=html}
+<iframe style="border: none;" src="https://360info-satellitemixeduse.pages.dev/embed-user-overlaps" width="500" height="580" style="background: white;"></iframe>
+```
+:::
+::::
+
+# [Why work]{.hl .hl-gold} with<br>mass media? {.text-wash-black background="linear-gradient(45deg, #f37335, #fdc830)"}
+
+## {.text-orange-gold .center}
+
+::: {.notes}
+One reason is we live in a world where it's easier than ever for people to seek out their own news.
+
+That's not always a bad thing! Australia has a very concentrated media market, and that has real downsides around monopoly power information quality.
+
+But there are downsides too - one of which being that people are less likely to receive the same information.
+:::
+
+**\"Media polarization and fragmentation...** [provide favourable opportunity structures for people to]{style="color:orange;"} **seek information in line with their prior beliefs**.\"
+
+::: {style="font-size:1.5rem; text-align: right;"}
+[<i class="bi bi-file-earmark-text-fill"></i> Steppat, Herrero & Esser (2022)](https://doi.org/10.1177/02673231211012141)
+:::
+
+## Trust {.text-orange-gold}
+
+::: {.notes}
+The good news is that researchers are still really trusted - much more so than other figures - in many fields.
+:::
+
+**Sources of climate change news you trust** [(n = 2038)]{style="color:orange"}
+
+![](/images/audience-trust-climate-change.png)
+
+::: {style="font-size:1.5rem"}
+[<i class="bi bi-file-earmark-text-fill"></i> Park et al. (2022, p. 18)](https://apo.org.au/node/317946)
+:::
+
+## {.center}
+
+[As]{style="color:orange"} **researchers,** [you have the opportunity to]{style="color:orange"} **build social consensus** [for a]{style="color:orange"} **policy action or change** [through mass media]{style="color:orange"}
+
+# [HEADING:<br>[blah blah[blah]{.hl .hl-purple}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #4a00e0, #ff0099)"}
+
+::: {.notes}
+XXX
+:::
+
+## XXX {.text-indigo-pink style="text-align:center"}
+
+::: {.notes}
+XXX
+:::
+
+XXX
+
+
+# [Heading <br>[with [XXX]{.hl .hl-red} and [YYY]{.hl .hl-red}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}
+
+::: {.notes}
+XXX
+:::
+
+## XXX
+
+::: {.notes}
+XXX
+:::
+
+# Conclusions {.text-black-white background="linear-gradient(45deg, #fff, #666)"}
+
+::: {.notes}
+XXX
+:::
+
+## XXX {.center }
+
+XXX
+
+## XXX {.center}
+
+XXX
+
+::: {.notes}
+XXX
+:::
+
+# Thanks for listening!
+
+Questions?
+
+[**@jimjam-slam**](https://twitter.com/jimjam-slam)
+
+[**360info.org**](https://360info.org)
+
+[**github.com/360-info**](https://github.com/360-info)

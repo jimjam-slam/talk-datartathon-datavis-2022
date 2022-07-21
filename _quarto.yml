@@ -1,0 +1,6 @@
+project:
+  output-dir: out
+  resources:
+    - "images"
+    - "fonts"
+    

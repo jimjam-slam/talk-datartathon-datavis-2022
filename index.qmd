@@ -125,7 +125,7 @@ As our team grows, I'm also working with our infrastructure partners and looking
 :::
 ::::
 
-# [Why work]{.hl .hl-gold} with<br>mass media? {.text-wash-black background="linear-gradient(45deg, #f37335, #fdc830)"}
+# [Why work]{.hl .hl-gold} with <br>mass media? {.text-wash-black background="linear-gradient(45deg, #f37335, #fdc830)"}
 
 ## {.text-orange-gold .center}
 
@@ -172,9 +172,11 @@ So let's talk about what we can do as researchers and data vis practitioners to 
 ## Alternatives {.text-indigo-pink .center style="text-align:center"}
 
 ::: {.notes}
-You don't have to use TV! There are other opportunities to get a message out to large audiences, even once we rule out the smaller, more fragmented things like social media.
+I'm going to talk a bit about designing graphics for broadcast TV.
 
-The other visual media are newspapers and digital. But these are very different to TV.
+Why TV? You don't have to use TV! There are other opportunities to get a message out to large audiences, even once we rule out the smaller, more fragmented things like social media.
+
+The other visual media are newspapers and digital. But these are very different.
 
 What's the difference between these two stories?
 :::
@@ -182,7 +184,7 @@ What's the difference between these two stories?
 ::::: {.columns}
 
 :::: {.column width="50%"}
-![](/images/mcccrh-projections.jpg){alt="Screenshot of an ABC news story about climate change projections"}
+![](/images/mcccrh-7news.gif){alt="Screenshot of an ABC news story about climate change projections"}
 
 ::: {.fragment}
 [Display time:]{style="color:blueviolet"}
@@ -192,7 +194,7 @@ What's the difference between these two stories?
 ::::
 
 :::: {.column width="50%"}
-[![](/images/storylab-climatechange.png){alt="Screenshot of an ABC Story Lab article about climate change" style="width:47%"}](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
+[![](/images/storylab-climatechange.png){alt="Screenshot of an ABC Story Lab article about climate change" style="width:39%"}](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
 
 ::: {.fragment}
 [Reading time:]{style="color:blueviolet"}
@@ -203,16 +205,133 @@ What's the difference between these two stories?
 
 :::::
 
-## Attention span
+## Attention span {.text-indigo-pink .center style="text-align:center"}
 
-```
+::: {.notes}
+The big difference is the time and the energy users are investing.
 
-```
+At one end is long-form journalism. Users here are looking for insightful content, but you have to reward their attention, because every paragraph is an opportunity for them to click away permanently.
+
+You have an opportunity to tell a complex story, but it has to progress slowly enough in its complexity to keep users following all the way. 
+
+At the opposite end of the scale, in broadcast news, people are more likely to stay watching but not very likely to be engaged.
+
+They're probably multi-tasking: scrolling online, cooking dinner, talking to family members.
+
+Whole segments might be a minute or two, but your opportunity to communicate is probably just a few seconds, because someone may not have seen the minute or two beforehand.
+
+You need to work with very little context.
+:::
+
+::::: {.columns}
+:::: {.column width="50%" style="text-align:right"}
+::: {style="display:flex; flex-direction:column; justify-content: space-between; height: 600px;"}
+Part of a long-form interactive story
+
+Long-form online video
+
+Blog post
+
+Regular news articles
+
+TV news segment
+
+Short-form online video
+
+A single shot in a TV news segment
+:::
+::::
+
+:::: {.column width="5%"}
+::::
+
+:::: {.column width="20%"}
+::: {style="display:flex; flex-direction:column; justify-content: space-between; height: 600px; color: indigo"}
+Many minutes, very engaged
+
+<i class="bi bi-arrow-down-short" style="font-size: 5rem;"></i>
+
+A few seconds, a little engaged
+:::
+::::
+
+:::: {.column width="5%"}
+::::
+
+:::: {.column width="20%"}
+::: {style="display:flex; flex-direction:column; justify-content: space-between; height: 600px; color: blueviolet"}
+Complex ideas, built up gradually
+
+<i class="bi bi-arrow-down-short" style="font-size: 5rem;"></i>
+
+(Very, very, very) simple ideas
+:::
+::::
+
+:::::
+
+## Considerations for TV {.text-indigo-pink .center style="text-align:center"}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![Jane Bunn presenting climate change messaging on 7news  ](/images/7news-timeseries.png)
+:::
+
+::: {.column width="40%"}
+::: {.incremental style="text-align: left;"}
+* Short text
+* "Editorialised" headline or labels
+* Thick text and lines
+* Contrast and colour focus
+  - [(This example's not great for contrast! 😅)]{style="color:blueviolet; font-size: smaller"}
+* Presenter position
+:::
+:::
+
+::::
+
+## Considerations for TV {.text-indigo-pink .center style="text-align:center"}
+
+::: {.notes}
+There're a lot of potential messages in this chart.
+
+The elements we've just talked about emphasise one primary message: warming.
+
+Warming, here in Melbourne, right now.
+
+Everything else is secondary. If we're lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. Maybe they'll pick these messages up with repreated viewed.
+
+But the primary message is designed to be understood even if someone reads the text and misses the chart.
+
+Or if they just see the rising trend line and the orange background but miss everything else.
+:::
+
+::::: {.columns}
+
+:::: {.column width="60%"}
+![Jane Bunn presenting climate change messaging on 7news  ](/images/7news-timeseries.png)
+::::
+
+:::: {.column width="40%"}
+**Primary messages**
+
+::: {.incremental style="text-align: left;"}
+* Trend line up
+* Warming
+:::
+
+**Secondary messages**
+
+::: {.incremental style="text-align: left;"}
+* Year-to-year variability
+* Length of data record
+:::
+::::
+:::::
 
 
-
-
-# [Heading <br>[with [XXX]{.hl .hl-red} and [YYY]{.hl .hl-red}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}
+# [Working with <br>[[broadcasters]{.hl .hl-red} and [journalists]{.hl .hl-red}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}
 
 ::: {.notes}
 XXX

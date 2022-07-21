@@ -30,21 +30,11 @@ Data and Digital Storytelling Lead, 360info
 
 ## Today {.center}
 
-::: {.notes}
-TODO - notes
-:::
-
 1. Why talk to mass media?
-  - Polarisation 
-  - Non-persuasive communication
-  - Big audiences
 2. Graphics for broadcast
-  - Alternatives: newspaper, online, podcasts, etc (but we'll focus on broadcast)
-  - People involved in broadcast:
-    - Presenter
-    - News editor
-    - 
-    - 
+3. Working with broadcasters and journalists
+4. Emergency broadcasting
+5. Q&A
 
 ::: {style="margin-top:50px"}
 ### Slides

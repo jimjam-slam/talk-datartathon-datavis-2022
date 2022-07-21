@@ -337,11 +337,98 @@ Or if they just see the rising trend line and the orange background but miss eve
 XXX
 :::
 
-## XXX
+## Types of folks you'll meet {.text-red-brown .center style="text-align: center"}
 
 ::: {.notes}
-XXX
+Media is rarely a one person show!
+
+In broadcast, a reporter may contact you as part of a story. They might be building a news segment on their own or working with an editor, a camera operator or others, depending on the size and ambition of the story.
+
+You might also find a presenter reaching out to you directly. Some presenters have a large hand in writing stories, especially at smaller, regional newsrooms where the resources to support them don't exist. They could be doing the whole story on their own!
+
+Some newsrooms may have access to a separate team that handles graphics. These are folks who're experienced with apps like Creative Cloud, and potentially also specialised software for things like weather graphics. Some newsrooms may share graphics teams across cities, and in some newsrooms the presenter could be doing the graphics themself!
+
+Most broadcast newsrooms have a news director deciding which stories will make the program and how much time each story will get. It's not unusual for story timing to change live as the show is broadcasting, so be aware that presenters or reporters may find themselves with less time to present a story than they'd expected when the show began.
+
+Print and digital are largely split up into reporters and editors. Editors don't just check for typos: they make decisions about whether content should be cut, whether content needs to be added, whether the story will make sense to readers, how a story will look in the context of other stories. They're analogous to news directors in a lot of ways.
 :::
+
+:::: {.columns}
+::: {.column width="50%"}
+**In broadcast:**
+
+[Reporters and producers]{style="color:darkred"}
+
+[Presenters]{style="color:darkred"}
+
+[Graphics teams]{style="color:darkred"}
+
+[News directors]{style="color:darkred"}
+:::
+::: {.column width="50%"}
+**In print and digital:**
+
+[Reporters/journalists]{style="color:darkred"}
+
+[Editors]{style="color:darkred"}
+
+[Data journalism team]{style="color:darkred"}
+
+[(Data journo, designer, coder)]{style="color:darkred; font-size: 1.75rem"}
+:::
+::::
+
+## Newsroom resourcing {.text-red-brown .center style="text-align: center"}
+
+::: {.notes}
+All of these people have one thing in common with you: they have no time at all.
+
+Academia crushes people with rolling long-term project milestones, but the media crushes people with fast-paced, day-to-day deadlines.
+
+If a journalist calls you with a media request and says they have an hour or two for a response, it's not just because they aren't familiar with the pace of science: it's because they were given the story today and it has to be filed today. As well as chasing contacts for other stories, finding graphics for stories, and everything else.
+
+Newsroom resources have been shrinking for a decade - the advertising business is busted.
+
+If you're a disaster researcher, they're calling you when something bad is happening. They're rushed, you feel pushed, stakes are high, everyone is angry.
+
+Taking the time to prep resources when a disaster isn't happening, to identify journalists who might be on your beat, and to get practice working with them pays dividends (like all practise!)
+
+It takes way more effort, but journalists will remember a good source when the Big Story rolls around, and it's a much better time to hit potentail gotchas.
+:::
+
+[Journalists who are]{style="color:darkred"} **looking** [for a particular story are time-poor]{style="color:darkred"}
+
+[Look for opportunities to]{style="color:darkred"} **push** [stories to journalists and]{style="color:darkred"} **develop relationships**
+
+# Emergency communication {.text-orange-gold background="black" style="color:white"}
+
+<h3 class="text-red-brown">EXTRA NOTE</h3>
+
+::: {.notes}
+I am 100% not trained in emergency communication or emergency broadcasting!
+
+I am not here to give you tips on doing it
+
+I would generally advise you to avoid it as a researcher
+:::
+
+## Things to remember (for doing media) during a disaster {.text-orange-gold background="black" style="color:white"}
+
+::: {.notes}
+If an active disaster is happening and you get a media request, ask questions of the producer or reporter about the story context.
+
+Will the piece air during the news or during an analysis show? The latter may have more room for context to build.
+
+If you provide graphics during a disaster, be aware of how they may look without context. Could this map of historical earthquake hotspots be mistaken for a forecast? What can you do to ammeleorate the risk of confusion?
+
+If you have the time, check the broadcaster out and look at their graphics. Are they using language, icons or colours around warnings? Avoid those!
+:::
+
+* Ask questions about context
+  - What kind of show is it? News? Analysis?
+* Graphics context
+  - Do your titles and labels make the non-emergency context clear?
+  - Do colours, icons or words conflict with official warning messaging?
 
 # Conclusions {.text-black-white background="linear-gradient(45deg, #fff, #666)"}
 
@@ -349,13 +436,13 @@ XXX
 XXX
 :::
 
-## XXX {.center }
+## Mass media is a great way for researchers to affect change! {.center style="text-align:center;"}
 
-XXX
+## Keep your graphics [simple]{.hl} and think about the [primary]{.hl} message {.center style="text-align:center;"}
 
-## XXX {.center}
+## Journos are [time-poor]{.hl} too.<br>You [can]{.hl} understand each other. {.center style="text-align:center;"}
 
-XXX
+## Be [careful]{.hl} communicating during a disaster {.center style="text-align:center;"}
 
 ::: {.notes}
 XXX

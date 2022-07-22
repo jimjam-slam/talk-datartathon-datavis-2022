@@ -133,7 +133,7 @@ But there are downsides too - one of which being that people are less likely to 
 [<i class="bi bi-file-earmark-text-fill"></i> Steppat, Herrero & Esser (2022)](https://doi.org/10.1177/02673231211012141)
 :::
 
-## Trust {.text-orange-gold}
+## Trust {.text-orange-gold .center style="text-align:center"}
 
 ::: {.notes}
 The good news is that researchers are still really trusted - much more so than other figures - in many fields.
@@ -143,7 +143,7 @@ This survey looked at who people trust for news about climate change. The stando
 
 **Sources of climate change news you trust** [(n = 2038)]{style="color:orange"}
 
-![Barchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver claimate change information on the X-axis.](/images/audience-trust-climate-change.png)
+![Barchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver claimate change information on the X-axis.](/images/audience-trust-climate-change.png){style="width:60%;margin-left: auto; margin-right: auto;"}
 
 ::: {style="font-size:1.5rem"}
 [<i class="bi bi-file-earmark-text-fill"></i> Park et al. (2022, p. 18)](https://apo.org.au/node/317946)
